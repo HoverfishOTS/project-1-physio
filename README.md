@@ -17,7 +17,7 @@ Ask your instructor if stuck.
 | Week | Tasks |
 |------|-------|
 | 1 | Learn basics of physiological signals: PPG, EDA, heart rate, stress response |
-| 2 | Explore datasets. Define emotion labels. Load WESAD data |
+| 2 | Explore datasets. Define emotion labels. Load WESAD data & Start literature review (1 or 2 references) |
 | 3 | Clean signal data: remove missing values, normalize, segment time windows |
 | 4 | Extract features: mean HR, HRV, EDA peaks, variance, min/max |
 | 5 | Visualize features using plots and correlation heatmaps |
